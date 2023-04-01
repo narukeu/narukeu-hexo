@@ -61,7 +61,4 @@ exclude: null
 ignore: null
 favicon: /images/favicon.png
 theme: icarus
-deploy:
-  type: 'git'
-  repo: https://github.com/narukeu/narukeu.github.io.git
-  branch: main
+

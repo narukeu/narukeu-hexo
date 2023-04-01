@@ -13,7 +13,7 @@ tags:
 
 GNU 运行库例外条款是 GPLv3 其中的一个附加许可条款，这个例外条款的目的是允许 GPL 协议发布的编译器编译非 GPL 的程序且不受 GPLv3 内容的限制。鉴于 GPL、AGPL、GPL 都存在简中翻译，因此我给 GCC RLE 也做了翻译，仅供参考。
 
-译文也放在了 GitHub Pages 上，存有 MD、ODT、HTML、PDF版本：[《GCC 运行库例外条款》非正式中文翻译页 | GCC_RLE_3.1_ZH_CN (narukeu.github.io)](https://narukeu.github.io/GCC_RLE_3.1_ZH_CN/)
+译文也放在了本网站上，存有 MD、ODT、HTML、PDF版本：[《GCC 运行库例外条款》非正式中文翻译页](/GCC_RLE_3.1_ZH_CN)
 
 <!--more-->
 
