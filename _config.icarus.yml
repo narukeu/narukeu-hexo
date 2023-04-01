@@ -1,0 +1,31 @@
+version: 5.1.0
+variant: default
+
+navbar:
+    menu:
+        主页: /
+        存档: /archives
+        目录: /categories
+        标签: /tags
+        关于: /about
+    links:
+        View on GitHub:
+            icon: fab fa-github
+            url: https://github.com/narukeu
+
+widgets:
+    -
+        type: profile
+        position: left  
+        author: Luke Na
+        author_title: 爱好者，以后可能是 Developer。
+        avatar: /images/user-avatar.jpg 
+        avatar_rounded: true
+        location: Earth
+        follow_link: 'https://github.com/narukeu'
+    -
+        type: tags
+        position: right
+
+footer:
+    copyright: 除特别声明以外，网站内容采用 CC-BY-SA 4.0 授权。
