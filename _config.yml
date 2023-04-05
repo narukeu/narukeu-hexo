@@ -59,6 +59,5 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-favicon: /images/favicon.png
 theme: icarus
 
