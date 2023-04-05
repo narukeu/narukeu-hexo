@@ -18,10 +18,11 @@ widgets:
         type: profile
         position: left  
         author: Luke Na
-        author_title: 爱好者，以后可能是 Developer。
-        avatar: /images/user-avatar.jpg 
+        author_title: Web Developer
+        # avatar:
         avatar_rounded: true
-        location: Earth
+        gravatar: narukeu@outlook.com
+        location: Solar System
         follow_link: 'https://github.com/narukeu'
     -
         type: tags
