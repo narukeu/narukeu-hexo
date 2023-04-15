@@ -60,4 +60,8 @@ include: null
 exclude: null
 ignore: null
 theme: icarus
+deploy:
+  type: git
+  repo: git@github.com:narukeu/narukeu.github.io.git
+  branch: main
 
