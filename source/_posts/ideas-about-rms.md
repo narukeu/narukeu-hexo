@@ -5,7 +5,7 @@ date: 2023-03-16 18:10:50
 categories:
 - 开源杂谈
 tags:
-- Unic
+- Unix
 - GNU
 - Linux
 - 自由软件

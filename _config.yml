@@ -5,7 +5,7 @@ keywords: null
 author: Luke Na
 language: zh-CN
 timezone: ''
-url: http://narukeu.cc
+url: http://narukeu.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
